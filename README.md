@@ -16,7 +16,7 @@ This repository provides a demonstration of John the Ripper (JtR), a popular pas
 
 ### 1. Introduction to John the Ripper
 - Overview of John the Ripper
-  ![John the Ripper Introduction](Images/1.johnTheRipper_introduction.png)
+  ![John the Ripper Introduction](_ScreenShots_IS_IA-1_TY-Comps_B_283_284_288_294/Images/1.johnTheRipper_introduction.png)
 - Basic usage
   ![Basic Usage](Images/2.basic_usage%20of%20_JtR.png)
 
