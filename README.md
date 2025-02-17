@@ -55,6 +55,7 @@ This repository provides a demonstration of John the Ripper (JtR), a popular pas
 
 ### 5. GUI Implementation
 - GUI installation
+  
   ![GUI Installation](_ScreenShots_IS_IA-1_TY-Comps_B_283_284_288_294/Images/GUI%20screenshots/installing_gui.png)
 - Different attack modes in GUI:
   - Single Crack Mode
